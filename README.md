@@ -36,6 +36,8 @@
 ##### benefited in the patient’s vat and payment of diagnosis center. 
 
 # SCHEME DIAGRAM
+![Capture (2)](https://github.com/user-attachments/assets/fafb4d30-66df-4db1-b458-1af64b43b159)
+
 
 
 
